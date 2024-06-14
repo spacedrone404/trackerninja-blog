@@ -1,7 +1,7 @@
 ﻿Personal blog about things of the past.
 Vintage & leftfield technologies.
 
-Repo can be found on Codeberg:
+Repo can be found at Codeberg:
 https://codeberg.org/trackerninja/pages
 
 Website:
